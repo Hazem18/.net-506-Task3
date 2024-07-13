@@ -1,0 +1,14 @@
+C:\Users\حازم\source\repos\Tasks3\Tasks3\bin\Debug\net8.0\Tasks3.exe
+C:\Users\حازم\source\repos\Tasks3\Tasks3\bin\Debug\net8.0\Tasks3.deps.json
+C:\Users\حازم\source\repos\Tasks3\Tasks3\bin\Debug\net8.0\Tasks3.runtimeconfig.json
+C:\Users\حازم\source\repos\Tasks3\Tasks3\bin\Debug\net8.0\Tasks3.dll
+C:\Users\حازم\source\repos\Tasks3\Tasks3\bin\Debug\net8.0\Tasks3.pdb
+C:\Users\حازم\source\repos\Tasks3\Tasks3\obj\Debug\net8.0\Tasks3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\حازم\source\repos\Tasks3\Tasks3\obj\Debug\net8.0\Tasks3.AssemblyInfoInputs.cache
+C:\Users\حازم\source\repos\Tasks3\Tasks3\obj\Debug\net8.0\Tasks3.AssemblyInfo.cs
+C:\Users\حازم\source\repos\Tasks3\Tasks3\obj\Debug\net8.0\Tasks3.csproj.CoreCompileInputs.cache
+C:\Users\حازم\source\repos\Tasks3\Tasks3\obj\Debug\net8.0\Tasks3.dll
+C:\Users\حازم\source\repos\Tasks3\Tasks3\obj\Debug\net8.0\refint\Tasks3.dll
+C:\Users\حازم\source\repos\Tasks3\Tasks3\obj\Debug\net8.0\Tasks3.pdb
+C:\Users\حازم\source\repos\Tasks3\Tasks3\obj\Debug\net8.0\Tasks3.genruntimeconfig.cache
+C:\Users\حازم\source\repos\Tasks3\Tasks3\obj\Debug\net8.0\ref\Tasks3.dll
